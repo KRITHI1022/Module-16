@@ -23,7 +23,7 @@ To write a Python program to construct an **AVL tree** and print the nodes of it
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 ```python
 
 from TreeAVL.AVL import AVL
@@ -36,9 +36,9 @@ def Construct_AVL(L):
     print(getDictTree(tree))
 ```
 
-## OUTPUT
+## OUTPUT:
 <img width="806" height="89" alt="image" src="https://github.com/user-attachments/assets/fb413543-ae3b-49fc-bc6c-7d2a1d41884d" />
 
 
-## RESULT
+## RESULT:
 Thus the program to construct an AVL tree and print the nodes of it has been implemented and executed successfully.
