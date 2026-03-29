@@ -37,7 +37,7 @@ To write a Python function `def leftRotate(self, z):` to perform the left rotati
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 
 ```python
 
@@ -135,9 +135,9 @@ print()
 
 ```
 
-## OUTPUT
+## OUTPUT:
 <img width="221" height="119" alt="image" src="https://github.com/user-attachments/assets/5f6cb949-5c20-43e3-a672-daf4ab2ba688" />
 
 
-## RESULT
+## RESULT:
 Thus the program using Python function def leftRotate(self, z): to perform the left rotation operation in an AVL Tree has been implemented and executed successfully.
