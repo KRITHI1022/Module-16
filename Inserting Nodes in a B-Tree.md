@@ -31,7 +31,7 @@ To write a Python function `def insert(self, k):` to insert the nodes in a **B-T
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 
 ```python
 
@@ -124,9 +124,9 @@ if __name__ == '__main__':
   main()
 ```
 
-## OUTPUT
+## OUTPUT:
 <img width="811" height="316" alt="image" src="https://github.com/user-attachments/assets/6b646a5e-1272-4e76-8e17-6194c26afaf9" />
 
 
-## RESULT
+## RESULT:
 Thus the program using Python function def insert(self, k): to insert the nodes in a B-Tree has been implemented and executed successfully.
