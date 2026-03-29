@@ -25,7 +25,7 @@ To write a Python program to construct an **AVL tree**, balance it, and print th
 
 ---
 
-## PYTHON PROGRAM
+## PYTHON PROGRAM:
 ```python
 
 from TreeAVL.AVL import AVL
@@ -44,8 +44,8 @@ L=[11, 8, 18 ,5, 13, 17, 4, 7 ,2]
 
 ```
 
-## OUTPUT
+## OUTPUT:
 <img width="815" height="107" alt="image" src="https://github.com/user-attachments/assets/c5b33cc1-95b6-4a68-a655-d32472bf907e" />
 
-## RESULT
+## RESULT:
 Thus the program to construct an AVL tree, balance it, and print the nodes has been implemented and executed successfully.
